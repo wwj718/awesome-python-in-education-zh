@@ -6,11 +6,11 @@
 
 当前资源的遵循的协议是[CC0](LICENSE).
 
-ps: 本列表翻译自[awesome-python-in-education](https://github.com/quobit/awesome-python-in-education),翻译的内容更新到[此次提交](https://github.com/quobit/awesome-python-in-education/commit/48eb55734e217adc6be81c68cb6ee06564be1466)一直，将陆续更新
+ps: 本列表翻译自[awesome-python-in-education](https://github.com/quobit/awesome-python-in-education),翻译的内容更新到[此次提交](https://github.com/quobit/awesome-python-in-education/commit/48eb55734e217adc6be81c68cb6ee06564be1466)，之后将定期与原项目同步
 
 Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
-近期我在关注编程在教育中的现状和资源，于是找到这份资源列表，其中许多项目我都有在使用,对于我不熟悉的项目，我都将亲手试用一遍，对于有意思的，我会给上我的评价和使用体验,也欢迎大家一起补充
+近期我在关注编程在教育中的现状和资源，于是找到这份资源列表，其中许多项目我都在使用,对于我不熟悉的项目，我将亲手试用一遍，并给出我的评价和使用体验,也欢迎大家一起补充
 
 ## 目录
 
