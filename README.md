@@ -102,7 +102,6 @@ Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](htt
 * [A simple tutorial about effectively using pdb](https://github.com/spiside/pdb-tutorial) - 一篇教你使用pdb的教程
 * [Beginning Python](http://archive.oreilly.com/oreillyschool/courses/Python1/index.html) - [Getting More out of Python](http://archive.oreilly.com/oreillyschool/courses/Python2/index.html) - [The Python Environment](http://archive.oreilly.com/oreillyschool/courses/Python3/index.html) - [Advanced Python](http://archive.oreilly.com/oreillyschool/courses/Python4/index.html) - 来自O'Reilly技术学院的4门课程
 * [Testing and Continuous Integration with Python](http://katyhuff.github.io/python-testing/) - 学习使用pytest来做测试
-* [Python Tutorials](https://pythonspot.com/en/) todo:delete 重了
 
 #### 数据科学
 
@@ -125,7 +124,7 @@ Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](htt
 * [CodeAbbey](http://www.codeabbey.com/) - 网站带有online judgement，让你在做题中进步
 * [Empire of Code](https://empireofcode.com/) - 这是一个战略、战术和编码混合的空间游戏。尽管可以不使用编码技能来玩游戏，但是使用代码会给你带来优势
 * [Project Euler](https://projecteuler.net/) - 一系列具有挑战性的数学/计算机编程问题
-* [Exercism](http://exercism.io/languages/python/) - 通过解决问题来学习编程的网站，支持丰富的编程语言(包括Python) todo:404 /about正常
+* [Exercism](http://exercism.io/languages/python/) - 通过解决问题来学习编程的网站，支持丰富的编程语言(包括Python) 
 * [HackerRank Challenges](https://www.hackerrank.com/domains/python/py-introduction) - 又一个通过解决问题来学习编程的网站
 * [PyBites](http://pybit.es/) - 一个基于pelican的博客，经常会更新一些小练习或是教程，颇似国内的一些Python公众号
 * [Practice Python](http://www.practicepython.org/) - 有笨方法学Python的味道
@@ -135,7 +134,6 @@ Awesome-XXX 是GitHub上知名的一组项目，其主页：[Awesome 清单](htt
 * [Reeborg's world](http://reeborg.ca/index_en.html) - 通过代码操控指定的虚拟角色来学习
 * [Python Koans](https://github.com/gregmalcolm/python_koans) - 通过TDD的方式来学习Python
 * [Boston Python Puzzles](http://puzzles.bostonpython.com/) - 通过解决一个个有趣的谜题来学习
-* [Python Koans](https://github.com/gregmalcolm/python_koans) todo 重复
 * [Code & Conquer](http://www.codeandconquer.co/) - 
 * [CodeCombat](https://codecombat.com/) - 这是一个多人回合制策略游戏，在游戏中你可以用代码去创建你的人工智能
 * [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges) - 用于教中学和高中生的基础编程知识.学生在minecraft可以调用他们在代码中编写的法术，互相战斗
